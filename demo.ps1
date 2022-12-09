@@ -7,6 +7,8 @@ param( [int]$year = ( Get-Date ).Year )
 #test
 ## more testing
 
+# hello
+
 # Format the output text (past, present or future?)
 $is1 = "is"
 $is2 = ""
